@@ -20,3 +20,4 @@ Follow the step-by-step guide in this blog : https://adfjava.blogspot.com/2021/0
 
 
 ![Alt text](src/main/resources/images/db-design.png "Title")
+<img src="src/main/resources/images/db-design.png" width="20" />

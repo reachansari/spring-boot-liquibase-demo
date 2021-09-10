@@ -17,3 +17,6 @@ There are several config options from spring boot. Check this [class](https://gi
 ## Detail - How to
 
 Follow the step-by-step guide in this blog : https://adfjava.blogspot.com/2021/02/spring-boot-liquibase-h2.html
+
+
+![Alt text](src/main/resources/images/db-design.png "Title")

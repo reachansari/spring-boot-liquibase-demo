@@ -1,23 +1,25 @@
-# Spring Boot + Liquibase + H2
+# spring-boot-liquibase-demo
 
 A simple spring boot application which illustrates how to use Liquibase for your database changes. 
-This application uses H2 as in-memory database to showcase, but you can also use an external database instead.
+This application uses H2 as in-memory database for demonstration.
 
-Springboot manages the execution of the liquibase updates at startup automatically. Although you can control that via spring config prop in application.properties.
+Springboot manages the execution of the liquibase updates at startup automatically via spring config prop in application.properties.
 
-### Liquibase Props to configure
+## Libraries used
+- Spring Boot
+- Spring Configuration
+- H2
+- Development Tools
 
-There are several config options from spring boot. Check this [class](https://github.com/spring-projects/spring-boot/blob/v2.4.2/spring-boot-project/spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/liquibase/LiquibaseProperties.java).
-
-## To run this :
-`` mvn clean install ``
-
-`` mvn spring-boot:run``
-
-## Detail - How to
-
-Follow the step-by-step guide in this blog : https://adfjava.blogspot.com/2021/02/spring-boot-liquibase-h2.html
+## Compilation Command
+- `mvn clean install` - Plain maven clean and install
 
 
+## In this example I have 3 tables and one intersection table.
 ![Alt text](src/main/resources/images/db-design.png?raw=true "Title")
-<img src="src/main/resources/images/h2-connect.png?raw=true">
+
+## How to connect H2 instances
+<img src="src/main/resources/images/h2-connect.png?raw=true" height="50">
+
+## How to verify
+<img src="src/main/resources/images/h2-query.png?raw=true" height="50">

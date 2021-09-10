@@ -19,5 +19,5 @@ There are several config options from spring boot. Check this [class](https://gi
 Follow the step-by-step guide in this blog : https://adfjava.blogspot.com/2021/02/spring-boot-liquibase-h2.html
 
 
-![Alt text](src/main/resources/images/db-design.png "Title")
-<img src="/src/main/resources/images/db-design.png" width="20" />
+![Alt text](src/main/resources/images/db-design.png?raw=true "Title")
+<img src="src/main/resources/images/h2-connect.png?raw=true">

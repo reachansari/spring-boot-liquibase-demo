@@ -3,7 +3,7 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
         xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.3.xsd">
-    <changeSet author="soham" id="1">
+    <changeSet author="reachansari" id="1">
         <insert tableName="service">
             <column name="id" valueNumeric="1"/>
             <column name="name" value="Yearly-Checkup"/>
@@ -23,7 +23,7 @@
             <column name="provider_id" valueNumeric="1"/>
         </insert>
     </changeSet>
-    <changeSet author="soham" id="2">
+    <changeSet author="reachansari" id="2">
         <insert tableName="service">
             <column name="id" valueNumeric="4"/>
             <column name="name" value="Heating Service"/>
@@ -43,7 +43,7 @@
             <column name="provider_id" valueNumeric="2"/>
         </insert>
     </changeSet>
-    <changeSet author="soham" id="3">
+    <changeSet author="reachansari" id="3">
         <insert tableName="service">
             <column name="id" valueNumeric="7"/>
             <column name="name" value="Tv-Series"/>
@@ -63,7 +63,7 @@
             <column name="provider_id" valueNumeric="3"/>
         </insert>
     </changeSet>
-    <changeSet author="soham" id="4">
+    <changeSet author="reachansari" id="4">
         <insert tableName="service">
             <column name="id" valueNumeric="10"/>
             <column name="name" value="3D Projector"/>

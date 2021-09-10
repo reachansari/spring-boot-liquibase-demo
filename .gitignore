@@ -18,10 +18,10 @@ target/classes/db/changelog/data/insert_services.xml
 target/classes/META-INF/MANIFEST.MF
 target/classes/META-INF/maven/com.example.demo.liquibaseh2/spring-boot-liquibase-demo/pom.properties
 target/classes/META-INF/maven/com.example.demo.liquibaseh2/spring-boot-liquibase-demo/pom.xml
-target/classes/META-INF/maven/soham.spring/liquibase-h2/pom.properties
-target/classes/META-INF/maven/soham.spring/liquibase-h2/pom.xml
-target/classes/META-INF/maven/soham.spring/spring-boot-liquibase-demo/pom.properties
-target/classes/META-INF/maven/soham.spring/spring-boot-liquibase-demo/pom.xml
+target/classes/META-INF/maven/reachansari.spring/liquibase-h2/pom.properties
+target/classes/META-INF/maven/reachansari.spring/liquibase-h2/pom.xml
+target/classes/META-INF/maven/reachansari.spring/spring-boot-liquibase-demo/pom.properties
+target/classes/META-INF/maven/reachansari.spring/spring-boot-liquibase-demo/pom.xml
 target/maven-archiver/pom.properties
 target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
 target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst

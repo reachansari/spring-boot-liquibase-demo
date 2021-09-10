@@ -19,7 +19,7 @@ Springboot manages the execution of the liquibase updates at startup automatical
 ![Alt text](src/main/resources/images/db-design.png?raw=true "Title")
 
 ## How to connect H2 instances
-<img src="src/main/resources/images/h2-connect.png?raw=true" height="150">
+<img src="src/main/resources/images/h2-connect.png?raw=true">
 
 ## How to verify
-<img src="src/main/resources/images/h2-query.png?raw=true" height="150">
+<img src="src/main/resources/images/h2-query.png?raw=true">

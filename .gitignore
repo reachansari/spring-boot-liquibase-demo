@@ -35,3 +35,6 @@ target/test-classes/com/example/demo/liquibaseh2/LiquibaseH2ApplicationTests.cla
 .factorypath
 .project
 .classpath
+target/classes/images/db-design.png
+target/classes/images/h2-connect.png
+target/classes/images/h2-query.png
